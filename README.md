@@ -15,3 +15,4 @@ This project find the average numbers in an array.
    `java Average_of_Numbers_in_an_Array`
 
 ## Expected Output (screenshots)
+![Application Screenshot](Screenshot.png)
